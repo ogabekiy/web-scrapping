@@ -18,3 +18,4 @@ data_products.json
 dokon-info.jsonl
 product_*.json
 product-chunks*.jsonl
+product-chunks-pandas.jsonl

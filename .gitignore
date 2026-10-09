@@ -15,5 +15,6 @@ env/
 
 # Re-creatable scraping and product chunk outputs
 data_products.json
+dokon-info.jsonl
 product_*.json
 product-chunks*.jsonl

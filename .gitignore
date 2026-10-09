@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+
+# Python environments and local secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# macOS and Jupyter local files
+.DS_Store
+.ipynb_checkpoints/
+
+# Re-creatable scraping and product chunk outputs
+data_products.json
+product_*.json
+product-chunks*.jsonl
